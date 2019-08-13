@@ -1,0 +1,46 @@
+import {PureComponent, Fragment} from 'react'
+import PropTypes from 'prop-types'
+import { Button, message } from 'antd'
+import getColumns from './getColumns'
+import getButtons from './getButtons'
+import getConditions from './getConditions'
+import { PageHOC } from '@lib/item-admin-lib'
+import { titleMap, pageConfig } from './setting'
+const exportBrandList = () => new Promise((resolve, reject) => {
+  setTimeout(() => {
+    resolve()
+  }, 200);
+})
+const queryBrandList = () => new Promise((resolve, reject) => {
+  setTimeout(() => {
+    resolve()
+  }, 200);
+})
+class Demo extends PureComponent {
+  constructor() {
+    super()
+  }
+  render() {
+    return (
+      <Fragment>
+        {
+          this.props.renderPage({
+            extraButtons: <Button type="primary">新增</Button>,
+          }, this)
+        }
+      </Fragment>
+    )
+  }
+}
+export default PageHOC({
+  ...pageConfig,
+  searchConfig: {
+    exportHandle: exportBrandList,
+    supportExport: true,
+  }
+}, {
+  getColumns: getColumns,
+  getButtons: getButtons,
+  getConditions: getConditions,
+  queryList: queryBrandList,
+})(Demo)
