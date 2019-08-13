@@ -3,11 +3,11 @@
 pages:
   stage: deploy
   script:
-  - mkdir ./
-  - cp -r * ./
-  - mv ./ /
+  - mkdir .public
+  - cp -r * .public
+  - mv .public public
   artifacts:
     paths:
-    - /
+    - public
   only:
-  - gh-pages
+  - master
