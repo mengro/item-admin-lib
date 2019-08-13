@@ -1,9 +1,10 @@
 {
-  "vendors.css": "/item-admin-lib/static/css/vendors.0055b0ffdbf3a9696ed0.css",
+  "vendors.css": "/item-admin-lib/static/css/vendors.fe3063976b4ee4ae5f92.css",
   "vendors.js": "/item-admin-lib/static/js/vendors.a89e5757.js",
-  "app.js": "/item-admin-lib/static/js/app.0055b0ffdbf3a9696ed0.js",
-  "src-a-index-index.css": "/item-admin-lib/static/css/src-a-index-index.0055b0ffdbf3a9696ed0.css",
-  "src-a-index-index.js": "/item-admin-lib/static/js/src-a-index-index.e866a570.js",
-  "src-brand-manage-index.js": "/item-admin-lib/static/js/src-brand-manage-index.b973ece3.js",
+  "app.js": "/item-admin-lib/static/js/app.fe3063976b4ee4ae5f92.js",
+  "src-pages-a-index-index.css": "/item-admin-lib/static/css/src-pages-a-index-index.fe3063976b4ee4ae5f92.css",
+  "src-pages-a-index-index.js": "/item-admin-lib/static/js/src-pages-a-index-index.0ef98bd9.js",
+  "src-pages-page-hoc-index.css": "/item-admin-lib/static/css/src-pages-page-hoc-index.fe3063976b4ee4ae5f92.css",
+  "src-pages-page-hoc-index.js": "/item-admin-lib/static/js/src-pages-page-hoc-index.13e7a90e.js",
   "index.html": "/item-admin-lib/index.html"
 }
