@@ -1,6 +1,6 @@
 {
-  "vendors.js": "item-admin-lib/static/js/vendors.ea6bbbcf.js",
-  "app.js": "item-admin-lib/static/js/app.7f62d7b196276d621a43.js",
-  "src-brand-manage-index.js": "item-admin-lib/static/js/src-brand-manage-index.cafc9c7c.js",
-  "index.html": "item-admin-lib/index.html"
+  "vendors.js": "/static/js/vendors.730d7073.js",
+  "app.js": "/static/js/app.ebcb317f24581c3286a3.js",
+  "src-brand-manage-index.js": "/static/js/src-brand-manage-index.cafc9c7c.js",
+  "index.html": "/index.html"
 }
