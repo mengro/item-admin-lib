@@ -4,9 +4,8 @@
 
 ## Usage
 
-```sh
-umi block https://github.com//tree/master/item-admin-lib
-```
+# 文档地址
+<https://mengro.github.io/item-admin-lib/>
 
 ## LICENSE
 
