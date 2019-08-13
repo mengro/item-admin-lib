@@ -5,8 +5,7 @@
 ## Usage
 
 # 文档地址
-[https://mengro.github.io/item-admin-lib/](https://mengro.github.io/item-admin-lib)
-
+<a href="https://mengro.github.io/item-admin-lib" target="_blank">https://mengro.github.io/item-admin-lib</a>
 ## LICENSE
 
 MIT
