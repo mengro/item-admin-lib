@@ -1,0 +1,58 @@
+{
+  "config": {
+    "title": "Item Admin Lib",
+    "description": "My awesome app using docz",
+    "menu": [],
+    "version": "0.0.1",
+    "repository": false,
+    "native": false,
+    "codeSandbox": true,
+    "themeConfig": {},
+    "separator": "-",
+    "typescript": true,
+    "theme": "/Users/mengro/workspace/基础设施/item-admin-lib/node_modules/docz-theme-umi/es/index.js",
+    "base": "/item-admin-lib",
+    "plugins": [
+      {},
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "props": [],
+  "entries": [
+    {
+      "key": "src/aIndex/index.mdx",
+      "value": {
+        "name": "首页",
+        "route": "/item-admin-lib/",
+        "id": "cc405e251d99472d5f8491a6bb721fdf",
+        "filepath": "src/aIndex/index.mdx",
+        "link": "",
+        "slug": "src-a-index-index",
+        "menu": "",
+        "headings": [
+          {
+            "slug": "商品模块组件工具库",
+            "depth": 1,
+            "value": "商品模块组件&工具库"
+          }
+        ]
+      }
+    },
+    {
+      "key": "src/brandManage/index.mdx",
+      "value": {
+        "name": "PageHOC",
+        "route": "/item-admin-lib/pagehoc",
+        "id": "b0c3a8e7c93036c0d9b44378ce46cf4c",
+        "filepath": "src/brandManage/index.mdx",
+        "link": "",
+        "slug": "src-brand-manage-index",
+        "menu": "",
+        "headings": []
+      }
+    }
+  ]
+}
